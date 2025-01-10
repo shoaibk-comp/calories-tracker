@@ -1,0 +1,23 @@
+{
+    "name": "calories-tracker",
+    "version": "1.0.0",
+    "description": "A basic AngularJS project",
+    "main": "index.js",
+    "dependencies": {
+        "angular": "^1.8.2",
+        "angular-messages": "^1.8.2",
+        "angular-ui-bootstrap": "^2.5.6",
+        "bootstrap": "^3.4.1",
+        "angular-animate": "^1.8.2",
+        "angular-touch": "^1.8.2",
+        "oclazyload": "^1.1.0",
+        "jquery": "^3.6.0",
+        "jquery-datetimepicker": "^2.5.20",
+        "jquery-mousewheel": "^3.1.13",
+        "lodash": "^4.17.21",
+        "purecss": "^3.0.0",
+        "requirejs": "^2.3.6"
+    },
+    "author": "",
+    "license": "ISC"
+}
